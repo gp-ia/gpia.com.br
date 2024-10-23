@@ -645,6 +645,9 @@ table td {
 .site-footer span.logo {
   font-weight: bold;
 }
+.site-footer .copyright {
+  font-style: italic;
+}
 
 .site-nav {
   margin-top: 10px;
